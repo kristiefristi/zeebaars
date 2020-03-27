@@ -1,0 +1,1 @@
+ng build --prod --output-path docs --base-href "https://shigurette.github.io/zeebaars/"
